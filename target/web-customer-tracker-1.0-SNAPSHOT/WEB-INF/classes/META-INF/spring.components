@@ -1,0 +1,3 @@
+com.crm.springdemo.controller.CustomerController=org.springframework.stereotype.Component
+com.crm.testdb.TestDbServlet=javax.servlet.annotation.WebServlet
+com.example.web_customer_tracker.HelloServlet=javax.servlet.annotation.WebServlet
