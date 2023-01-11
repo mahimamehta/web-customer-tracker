@@ -1,3 +1,5 @@
 com.crm.springdemo.controller.CustomerController=org.springframework.stereotype.Component
+com.crm.springdemo.dao.CustomerDAOImpl=org.springframework.stereotype.Component
+com.crm.springdemo.entity.Customer=javax.persistence.Entity,javax.persistence.Table
 com.crm.testdb.TestDbServlet=javax.servlet.annotation.WebServlet
 com.example.web_customer_tracker.HelloServlet=javax.servlet.annotation.WebServlet
